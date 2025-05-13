@@ -134,7 +134,7 @@ yarn storybook
 
 ## License
 
-MIT © [Your Name]
+MIT © Maria Lovelle Camacho
 
 ## Dependencies
 
